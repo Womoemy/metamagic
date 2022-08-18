@@ -1,2 +1,6 @@
 # metamagic
-A Django solution for extracting metadata from files.
+### A Django & React solution for extracting metadata from files.
+
+This is v2, my personal update on my Zuri team project - Fetch Metadata
+
+
